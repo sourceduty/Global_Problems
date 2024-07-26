@@ -14,7 +14,7 @@
 
 By operating in this structured manner, the "Global Problem Solver" aims to inspire action and optimism, fostering a collaborative approach to solving some of the world’s most pressing challenges.
 
-#
+<br>
 
 <details><summary>Global Problems</summary>
 <br>
