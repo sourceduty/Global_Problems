@@ -412,6 +412,14 @@ Additionally, failed businesses can prompt regulatory and policy changes aimed a
 ### Related Links
 
 [Modernization](https://github.com/sourceduty/Modernization)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Global Warming](https://github.com/sourceduty/Global_Warming)
+<br>
+[UN Simulator](https://github.com/sourceduty/UN_Simulator)
+<br>
+[International Business](https://github.com/sourceduty/International_Business)
 
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
