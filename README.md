@@ -478,6 +478,8 @@ Lastly, landscaping errors can have financial implications for communities and m
 [Urban Update](https://github.com/sourceduty/Urban_Update)
 <br>
 [International Compatability](https://github.com/sourceduty/International_Compatibility)
+<br>
+[Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
 
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
