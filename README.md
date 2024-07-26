@@ -335,5 +335,7 @@ By operating in this structured manner, the "Global Problem Solver" aims to insp
 
 > "*The actual global problems are smaller problems.*"
 
+> "*Localized help like the UN Country Teams (UNCTs) might provide more help than something like the International Red Cross.*"
+
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
