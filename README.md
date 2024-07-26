@@ -331,7 +331,7 @@ By operating in this structured manner, the "Global Problem Solver" aims to insp
 
 > Alex: "*These social system problems which are shared globally like homelessness, drug addictions and malnutrition, almost can't be solved by one or more people, groups or entities.*"
 
-> "*The actual problems that need to be solved, which also affect everyone, include examples such as man-made errors, material organization, automation maintenance, construction errors, community errors and employment optimization, failed businesses, urban heritage organization.*"
+> "*The actual problems that need to be solved, which also affect everyone, include examples such as man-made errors, material organization, automation maintenance, construction errors, community errors, employment optimization, failed businesses, urban heritage organization and community location errors.*"
 
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
