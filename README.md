@@ -327,5 +327,9 @@ By operating in this structured manner, the "Global Problem Solver" aims to insp
 <br>
 </details>
 
+#
+
+> Alex: "*These social system problems which are shared globally like homelessness, drug addictions and malnutrition, almost can't be solved by one or more people, groups or entities.*"
+
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
