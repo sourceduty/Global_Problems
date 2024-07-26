@@ -420,6 +420,14 @@ Additionally, failed businesses can prompt regulatory and policy changes aimed a
 [UN Simulator](https://github.com/sourceduty/UN_Simulator)
 <br>
 [International Business](https://github.com/sourceduty/International_Business)
+<br>
+[Government](https://github.com/sourceduty/Government)
+<br>
+[Standard Government](https://github.com/sourceduty/Standard_Government)
+<br>
+[Urban Update](https://github.com/sourceduty/Urban_Update)
+<br>
+[International Compatability](https://github.com/sourceduty/International_Compatibility)
 
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
