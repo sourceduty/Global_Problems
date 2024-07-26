@@ -480,6 +480,8 @@ Lastly, landscaping errors can have financial implications for communities and m
 [International Compatability](https://github.com/sourceduty/International_Compatibility)
 <br>
 [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
+<br>
+[Russo-Ukrainian War](https://github.com/sourceduty/Russo-Ukrainian_War)
 
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
