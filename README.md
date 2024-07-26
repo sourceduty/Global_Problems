@@ -487,7 +487,7 @@ Lastly, landscaping errors can have financial implications for communities and m
 <br>
 [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 <br>
-[ALien Life](https://github.com/sourceduty/Alien_Life)
+[Alien Life](https://github.com/sourceduty/Alien_Life)
 
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
