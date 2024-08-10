@@ -561,6 +561,8 @@ Lastly, landscaping errors can have financial implications for communities and m
 [Business Problem-Word Tool](https://github.com/sourceduty/Business_Problem-Word_Tool)
 <br>
 [AI](https://github.com/sourceduty/AI)
+<br>
+[Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
 
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
