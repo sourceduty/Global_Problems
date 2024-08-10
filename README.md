@@ -490,6 +490,8 @@ Lastly, landscaping errors can have financial implications for communities and m
 [Alien Life](https://github.com/sourceduty/Alien_Life)
 <br>
 [Business Problem-Word Tool](https://github.com/sourceduty/Business_Problem-Word_Tool)
+<br>
+[AI](https://github.com/sourceduty/AI)
 
 ***
 🛈 This GPT is free and open-source; anyone can redistribute it and/or modify it.
