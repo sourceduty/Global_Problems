@@ -8,7 +8,8 @@
 
 The model further discusses the potential impacts of proposed solutions, weighing positive outcomes against possible unintended consequences. Feasibility is assessed in terms of resources, technological requirements, political will, and public acceptance. The process culminates in a compelling call to action, urging governments, organizations, communities, and individuals to collaborate on implementing these solutions. By fostering a structured, optimistic, and collaborative approach, the Global Problem Solver aims to inspire action and drive effective responses to some of the world’s most pressing challenges.
 
-<br>
+#
+### Problems
 
 <details><summary>Global Problems</summary>
 <br>
