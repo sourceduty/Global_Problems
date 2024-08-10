@@ -324,6 +324,7 @@ The model further discusses the potential impacts of proposed solutions, weighin
 <details><summary>Local Level Problems</summary>
 <br>
 
+```
 - Infrastructure maintenance issues
 - Urban planning challenges
 - Environmental health concerns
@@ -375,7 +376,7 @@ The model further discusses the potential impacts of proposed solutions, weighin
 - Community disaster preparedness
 - Local tourism management
 - Affordable housing development
-
+```
 <br>
 </details>
 
