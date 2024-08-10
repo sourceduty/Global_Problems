@@ -320,6 +320,63 @@ The model further discusses the potential impacts of proposed solutions, weighin
 
 <br>
 </details>
+<details><summary>Local Level Problems</summary>
+<br>
+
+- Infrastructure maintenance issues
+- Urban planning challenges
+- Environmental health concerns
+- Community and social cohesion
+- Economic disparities
+- Employment issues
+- Health regulation compliance
+- Safety regulation compliance
+- Education quality gaps
+- Skill development challenges
+- Cultural heritage preservation
+- Transport inefficiencies
+- Mobility issues
+- Local environmental sustainability
+- Water supply maintenance
+- Sewage system upkeep
+- Public transportation maintenance
+- Power grid reliability
+- Waste management problems
+- Zoning regulation issues
+- Overcrowding in urban areas
+- Underutilization of land
+- Air pollution control
+- Water pollution control
+- Noise pollution control
+- Urban biodiversity conservation
+- Green space integration
+- Social fragmentation
+- Marginalized group inclusion
+- Localized poverty
+- Underemployment
+- Job-skills mismatch
+- Small business challenges
+- Food safety issues
+- Public health standards enforcement
+- Healthcare infrastructure gaps
+- Rural education access
+- Inclusive education systems
+- Workplace safety standards
+- High-risk industry regulation
+- Historical site preservation
+- Urban-rural connectivity
+- Disability accessibility in transport
+- Local resource management
+- Sustainable community practices
+- Green building standards
+- Renewable energy adoption
+- Urban resilience planning
+- Community disaster preparedness
+- Local tourism management
+- Affordable housing development
+
+<br>
+</details>
 
 #
 ### Notes
